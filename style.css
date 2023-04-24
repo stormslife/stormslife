@@ -39,12 +39,12 @@ header {
 	width: 100%;
 }
 .main_article {
-	padding-left: 25px;
+	padding-left: 3.75%;
 	color: #CDD4EA;
 	font-family: "Lexend";
 	font-size: 20px;
 	padding-top: 60px;
-	padding-right: 30px;
+	padding-right: 2.5%;
 	width: 60%;
 	float: left;
 }
@@ -55,7 +55,7 @@ header {
 }
 .imageColumn {
 	padding-top: 80px;
-	padding-right: 25px;
+	padding-right: 3.75%px;
 	float: right;
 	width: 30%;
 }	
