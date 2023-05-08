@@ -1,5 +1,8 @@
 //GALLERY
 
+let agent = navigator.userAgent;
+alert(navigator.platform);
+
 var isEnlarged = false;
 var enlargedImage = "";
 
